@@ -9,6 +9,6 @@ Tableau Dashboard: [View Dashboard](https://public.tableau.com/views/Visualizing
 
 Tableau Story: [View Story](https://public.tableau.com/shared/7GFYF2ZWT?:display_count=n&:origin=viz_share_link)
 
-Demo Video: [Watch Demo](https://1drv.ms/v/c/95f09092244dd2ae/IQAFAgDdS5XmQZhvNaWGhiG_AQHX9EcjfriiCXlmwTQEooYE?e=a10Z97)
+Demo Video: [Watch Demo](https://1drv.ms/v/c/95f09092244dd2ae/IQAFAgDdS5XmQZhvNaWGhiG_AeMSGjU-uocC-U52fZlwhRk?e=rhuLam)
 
 GitHub Repository: [View Repository](https://github.com/rkumawat64214-sys/Visualizing-Housing-Market-Trends)    
